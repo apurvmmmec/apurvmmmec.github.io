@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Apurv Nigam
 subtitle: "Deep Learning and Computer Vison Enthusiast"
-email:apurv.mmmec@gmail.com
+email: apurv.mmmec@gmail.com
 description: >
   A blog to share my knowlege on Deep Learing with the world.
 # Base URL of site (i.e. /blog). It should always start with a slash,
