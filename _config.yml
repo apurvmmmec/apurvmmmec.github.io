@@ -113,3 +113,5 @@ protocols:
     os_repo: "https://github.com/apurvnigam/apurvnigam.io"
     os_rcs_type: "git"
     os_src: "git@github.com:apurvnigam/apurvnigam.io.git"
+
+theme: jekyll-theme-architect
